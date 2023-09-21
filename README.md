@@ -21,7 +21,7 @@ Python/C#/Java \
 
 # プロジェクト
 
-## [ThtkGUI]("") (Coming soon...)
+## ThtkGUI (Coming soon...)
 東方ツールキット([thtk]("https://github.com/thpatch/thtk"))のGUIラッパーツール。\
 このプロジェクトについてthtkの開発元に問い合わせることのないようお願いします。\
 このプロジェクトの開発はthtkやthpatchとは関係ありません。
@@ -29,13 +29,13 @@ Python/C#/Java \
 - C#
 - WinUI3
 
-## [TouhouPE]("") (Coming soon...)
+## TouhouPE (Coming soon...)
 Windows PE (Preinstall Environment)上で東方原作および旧作(Anex86上)を動作させるプロジェクト。
 ### 使用技術
 - Windows PE
 - Wow32
 
-## [OharaibouPack]("")
+## OharaibouPack (Coming soon...)
 お祓い棒的なものを追加するMinecraftデータパック。ネタ枠。
 ### 使用技術
 - Minecraft Datapack

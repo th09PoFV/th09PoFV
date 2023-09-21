@@ -19,7 +19,7 @@ I'll add something. Someday. idk
 
 # My works
 
-## [ThtkGUI]("") (Coming soon...)
+## ThtkGUI (Coming soon...)
 GUI wrapper for Touhou toolkit([thtk]("https://github.com/thpatch/thtk")). \
 Don't send any reports about this project to thtk. \
 Develop of this project is not related with thtk or thpatch.
@@ -27,14 +27,14 @@ Develop of this project is not related with thtk or thpatch.
 - C#
 - WinUI3
 
-## [TouhouPE]("") (Coming soon...)
+## TouhouPE (Coming soon...)
 A project to run Touhou games on on Windows PE (Preinstall Environment).
 Windows Native and PC-98 with Anex86 are suppoted.
 ### Technology
 - Windows PE
 - Wow32
 
-## [OharaibouPack]("")
+## OharaibouPack (Coming soon...)
 A minecraft datapack to add Reimu's purification rod. Kind of joke pack.
 ### Technology
 - Minecraft Datapack
