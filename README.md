@@ -1,4 +1,4 @@
-<!-- [English ver.]("") -->
+English ver is [here]("https://github.com/th09PoFV/th09PoFV/blob/main/README_en.md")
 
 # 自己紹介
 

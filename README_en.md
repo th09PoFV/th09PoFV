@@ -1,4 +1,4 @@
-<!-- 日本語版は[こちら]("") -->
+日本語版は[こちら]("https://github.com/th09PoFV")
 
 # Self-introduction
 
