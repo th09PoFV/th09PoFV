@@ -1,17 +1,3 @@
-# 目次
-- [目次](#目次)
-- [自己紹介](#自己紹介)
-  - [概要](#概要)
-  - [なにやってるの？](#なにやってるの)
-- [プロジェクト](#プロジェクト)
-  - [ThtkGUI (Coming soon...)](#thtkgui-coming-soon)
-    - [使用技術](#使用技術)
-  - [TouhouPE (Coming soon...)](#touhoupe-coming-soon)
-    - [使用技術](#使用技術-1)
-  - [OharaibouPack](#oharaiboupack)
-    - [使用技術](#使用技術-2)
-- [SNS](#sns)
-
 <!-- [English ver.]("") -->
 
 # 自己紹介

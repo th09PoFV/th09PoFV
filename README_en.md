@@ -1,17 +1,3 @@
-# Table of contents
-- [Table of contents](#table-of-contents)
-- [Self-introduction](#self-introduction)
-  - [General](#general)
-  - [What I'm doing](#what-im-doing)
-- [My works](#my-works)
-  - [ThtkGUI (Coming soon...)](#thtkgui-coming-soon)
-    - [Technology](#technology)
-  - [TouhouPE (Coming soon...)](#touhoupe-coming-soon)
-    - [Technology](#technology-1)
-  - [OharaibouPack](#oharaiboupack)
-    - [Technology](#technology-2)
-- [SNS](#sns)
-
 <!-- 日本語版は[こちら]("") -->
 
 # Self-introduction
